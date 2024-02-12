@@ -1,0 +1,9 @@
+rules of file and directory name:
+   1. First characters of words must be capital. However, if the words are used as conjection, you mustn't do.
+   2. If the files are in top directory (YUKIKAZE/~), ALL LETTERS in filename have to be capital.
+
+"#" means describing functions of directories and files in the left of "#"
+
+/main #It is the directory of 
+  |---- Main.cc
+  |---- ConvertCSStoCPP.cc
