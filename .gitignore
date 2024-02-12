@@ -1,4 +1,6 @@
 **/.vscode
 .exe
 mytest**
-**/InstallationLog.txt
+*Log*
+*LOG*
+*log*
