@@ -4,6 +4,8 @@ rules of file and directory name:
 
 "#" means describing functions of directories and files in the left of "#"
 
-/main #It is the directory of 
+/main #It is the directory of main program
   |---- Main.cc
   |---- ConvertCSStoCPP.cc
+  |---- FileProcessing.cc
+  |---- ComputerSetting.json
