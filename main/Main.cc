@@ -6,8 +6,5 @@
 #include <FileProcessing.hpp>
 
 int main(void){
-    //Make fields
-
-
     return 0;
 }
