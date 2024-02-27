@@ -3,8 +3,6 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include <map>
-// #include <ncurses.h> For UNIX
 #include <windows.h>
 
 /*
@@ -152,6 +150,7 @@ THE DEFINITION OF FIELDS PROCESSING START --ONLY FOR WINDOWS--
 
 
 
-int main(void){
+int WINAPI WinMain(
+    HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdLine, int nCmdShow){
     return 0;
 }
